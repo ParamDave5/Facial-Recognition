@@ -1,7 +1,7 @@
 
 ### This is a repositort for face recognition and facial expression detection using Bayes Calssifier , KNN , KErnel SVM and Boosted SVM using PCA and MDA as preprossesing methods
 
-Data should be a in a parent folder of code.  
+Data should be in a parent folder of code.  
 
 Enter path to data.mat in line 12 of function read_data in loadData.py
 
