@@ -1,5 +1,5 @@
 
-
+### This is a repositort for face recognition and facial expression detection using Bayes Calssifier , KNN , KErnel SVM and Boosted SVM using PCA and MDA as preprossesing methods
 
 Data should be a in a parent folder of code.  
 
